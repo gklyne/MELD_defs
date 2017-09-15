@@ -16,13 +16,13 @@
       "@id": "frbr:Manifestation"
     },
     {
+      "@id": "frbr:Group_1_entity"
+    },
+    {
       "@id": "rdf:Bag"
     },
     {
       "@id": "rdfs:Container"
-    },
-    {
-      "@id": "frbr:Group_1_entity"
     }
   ],
   "annal:type": "annal:Type",

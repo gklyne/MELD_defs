@@ -13,13 +13,13 @@
   "annal:id": "Conceptual_score_segment",
   "annal:supertype_uri": [
     {
-      "@id": "frbr:Group_1_entity"
+      "@id": "so:Segment"
     },
     {
       "@id": "frbr:Expression"
     },
     {
-      "@id": "so:SegmentLine"
+      "@id": "frbr:Group_1_entity"
     }
   ],
   "annal:type": "annal:Type",

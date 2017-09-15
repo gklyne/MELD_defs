@@ -13,10 +13,10 @@
   "annal:id": "Muzicode_in_MEI",
   "annal:supertype_uri": [
     {
-      "@id": "frbr:Group_1_entity"
+      "@id": "frbr:Expression"
     },
     {
-      "@id": "frbr:Expression"
+      "@id": "frbr:Group_1_entity"
     }
   ],
   "annal:type": "annal:Type",

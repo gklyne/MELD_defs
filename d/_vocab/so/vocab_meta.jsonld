@@ -1,0 +1,26 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_vocab/so",
+  "@type": [
+    "annal:Vocabulary"
+  ],
+  "annal:id": "so",
+  "annal:type": "annal:Vocabulary",
+  "annal:type_id": "_vocab",
+  "annal:uri": "http://www.linkedmusic.org/ontologies/segment#",
+  "rdfs:comment": "# Music segment ontology namespace\r\n\r\n@@NOTE: the URI for this namespace is derived from [The segment ontology: Bridging music-generic and domain-specific](http://users.ox.ac.uk/~oerc0033/preprints/admire2011.pdf), but cannot currently be resolved.",
+  "rdfs:label": "Segment ontology namespace",
+  "rdfs:seeAlso": [
+    {
+      "@id": "https://doi.org/10.1109/ICME.2011.6012204"
+    },
+    {
+      "@id": "http://users.ox.ac.uk/~oerc0033/preprints/admire2011.pdf"
+    }
+  ]
+}
