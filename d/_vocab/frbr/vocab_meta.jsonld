@@ -1,0 +1,19 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_vocab/frbr",
+  "@type": [
+    "annal:Vocabulary"
+  ],
+  "annal:id": "frbr",
+  "annal:type": "annal:Vocabulary",
+  "annal:type_id": "_vocab",
+  "annal:uri": "http://purl.org/vocab/frbr/core#",
+  "rdfs:comment": "FRBR core namespace",
+  "rdfs:label": "FRBR core namespace",
+  "rdfs:seeAlso": []
+}

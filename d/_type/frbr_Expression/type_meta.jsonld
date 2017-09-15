@@ -1,0 +1,26 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_type/frbr_Expression",
+  "@type": [
+    "annal:Type"
+  ],
+  "annal:field_aliases": [],
+  "annal:id": "frbr_Expression",
+  "annal:supertype_uri": [
+    {
+      "@id": "frbr:Group_1_entity"
+    }
+  ],
+  "annal:type": "annal:Type",
+  "annal:type_id": "_type",
+  "annal:type_list": "_list/Default_list",
+  "annal:type_view": "_view/Default_view",
+  "annal:uri": "frbr:Expression",
+  "rdfs:comment": "# Expression (FRBR)\r\n\r\nFRBR expression of some FRBR work.",
+  "rdfs:label": "Expression"
+}

@@ -1,0 +1,26 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_type/RDF_Bag",
+  "@type": [
+    "annal:Type"
+  ],
+  "annal:field_aliases": [],
+  "annal:id": "RDF_Bag",
+  "annal:supertype_uri": [
+    {
+      "@id": "rdfs:Container"
+    }
+  ],
+  "annal:type": "annal:Type",
+  "annal:type_id": "_type",
+  "annal:type_list": "_list/Default_list",
+  "annal:type_view": "_view/Default_view",
+  "annal:uri": "rdf:Bag",
+  "rdfs:comment": "# RDF Bag\r\n\r\nAn RDF Bag is a type of RDF container whose elements are not considered to be ordered.",
+  "rdfs:label": "RDF Bag"
+}

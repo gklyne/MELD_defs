@@ -1,0 +1,37 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_list/FRBR_group1_entity",
+  "@type": [
+    "annal:List"
+  ],
+  "annal:default_type": "_type/FRBR_group1_entity",
+  "annal:default_view": "_view/FRBR_group1_entity",
+  "annal:display_type": "_enum_list_type/List",
+  "annal:id": "FRBR_group1_entity",
+  "annal:list_entity_selector": "'frbr:Group_1_entity' in [@type]",
+  "annal:list_fields": [
+    {
+      "annal:field_id": "_field/Entity_id",
+      "annal:field_placement": "small:0,3"
+    },
+    {
+      "annal:field_id": "_field/Entity_type",
+      "annal:field_placement": "small:3,3"
+    },
+    {
+      "annal:field_id": "_field/Entity_label",
+      "annal:field_placement": "small:6,6"
+    }
+  ],
+  "annal:record_type": "frbr:Group_1_entity",
+  "annal:type": "annal:List",
+  "annal:type_id": "_list",
+  "annal:uri": "annal:display/Default_list",
+  "rdfs:comment": "# FRBR group 1 entity  list\r\n\r\nList entities of type [FRBR group 1 entity]($BASE:_type/FRBR_group1_entity).\r\n\r\nThat is, all instances of types [frbr:Work]($BASE:_type/frbr_Work), [frbr:Expression]($BASE:_type/frbr_Expression), [frbr:Manifestation]($BASE:_type/frbr_Manifestation) and [frbr:Item]($BASE:_type/frbr_Item).",
+  "rdfs:label": "FRBR group 1 entity  list"
+}

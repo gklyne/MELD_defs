@@ -1,0 +1,33 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_list/Conceptual_score_segment",
+  "@type": [
+    "annal:List"
+  ],
+  "annal:default_type": "_type/Conceptual_score_segment",
+  "annal:default_view": "_view/Conceptual_score_segment",
+  "annal:display_type": "_enum_list_type/List",
+  "annal:id": "Conceptual_score_segment",
+  "annal:list_entity_selector": "'meld:Conceptual_score_segment' in [@type]",
+  "annal:list_fields": [
+    {
+      "annal:field_id": "_field/Entity_id",
+      "annal:field_placement": "small:0,3"
+    },
+    {
+      "annal:field_id": "_field/Entity_label",
+      "annal:field_placement": "small:3,9"
+    }
+  ],
+  "annal:record_type": "meld:Conceptual_score_segment",
+  "annal:type": "annal:List",
+  "annal:type_id": "_list",
+  "annal:uri": "annal:display/Default_list",
+  "rdfs:comment": "# Conceptual score segment list\r\n\r\nList entities of type [Conceptual score segment]($BASE:_type/Conceptual_score_segment).",
+  "rdfs:label": "Conceptual score segment list"
+}

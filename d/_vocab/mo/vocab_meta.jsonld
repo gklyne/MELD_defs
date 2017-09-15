@@ -1,0 +1,19 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_vocab/mo",
+  "@type": [
+    "annal:Vocabulary"
+  ],
+  "annal:id": "mo",
+  "annal:type": "annal:Vocabulary",
+  "annal:type_id": "_vocab",
+  "annal:uri": "http://purl.org/ontology/mo/",
+  "rdfs:comment": "Music Ontology namespace",
+  "rdfs:label": "Music Ontology namespace",
+  "rdfs:seeAlso": []
+}

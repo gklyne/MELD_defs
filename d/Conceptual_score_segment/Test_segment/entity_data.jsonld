@@ -1,0 +1,27 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Conceptual_score_segment/Test_segment",
+  "@type": [
+    "meld:Conceptual_score_segment",
+    "frbr:Group_1_entity",
+    "frbr:Expression",
+    "so:SegmentLine",
+    "annal:EntityData"
+  ],
+  "annal:id": "Test_segment",
+  "annal:type": "meld:Conceptual_score_segment",
+  "annal:type_id": "Conceptual_score_segment",
+  "frbr:part": [
+    {
+      "@id": "Muzicode_in_MEI/Test_segment_1"
+    }
+  ],
+  "mo:published_as": "coll:Test_segment",
+  "rdfs:comment": "# Test segment",
+  "rdfs:label": "Test segment"
+}

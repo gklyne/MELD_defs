@@ -1,0 +1,47 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_view/MEI_Embodiment",
+  "@type": [
+    "annal:View"
+  ],
+  "annal:id": "MEI_Embodiment",
+  "annal:open_view": true,
+  "annal:record_type": "meld:MEIEmbodiment",
+  "annal:type": "annal:View",
+  "annal:type_id": "_view",
+  "annal:uri": "annal:display/Default_view",
+  "annal:view_fields": [
+    {
+      "annal:field_id": "_field/Entity_id",
+      "annal:field_placement": "small:0,12;medium:0,6",
+      "annal:property_uri": ""
+    },
+    {
+      "annal:field_id": "_field/Entity_type",
+      "annal:field_placement": "small:0,12;medium:6,6",
+      "annal:property_uri": ""
+    },
+    {
+      "annal:field_id": "_field/Entity_label",
+      "annal:field_placement": "small:0,12",
+      "annal:property_uri": ""
+    },
+    {
+      "annal:field_id": "_field/Entity_comment",
+      "annal:field_placement": "small:0,12",
+      "annal:property_uri": ""
+    },
+    {
+      "annal:field_id": "_field/rdfs_member_many",
+      "annal:field_placement": "",
+      "annal:property_uri": ""
+    }
+  ],
+  "rdfs:comment": "# MEI Embodiment view\r\n\r\nView entity of type [MEI Embodiment]($BASE:_type/MEI_Embodiment).",
+  "rdfs:label": "MEI Embodiment view"
+}

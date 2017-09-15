@@ -1,0 +1,33 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_list/MEI_Embodiment",
+  "@type": [
+    "annal:List"
+  ],
+  "annal:default_type": "_type/MEI_Embodiment",
+  "annal:default_view": "_view/MEI_Embodiment",
+  "annal:display_type": "_enum_list_type/List",
+  "annal:id": "MEI_Embodiment",
+  "annal:list_entity_selector": "'meld:MEIEmbodiment' in [@type]",
+  "annal:list_fields": [
+    {
+      "annal:field_id": "_field/Entity_id",
+      "annal:field_placement": "small:0,3"
+    },
+    {
+      "annal:field_id": "_field/Entity_label",
+      "annal:field_placement": "small:3,9"
+    }
+  ],
+  "annal:record_type": "meld:MEIEmbodiment",
+  "annal:type": "annal:List",
+  "annal:type_id": "_list",
+  "annal:uri": "annal:display/Default_list",
+  "rdfs:comment": "# MEI Embodiment list\n\nList entities of type [MEI Embodiment]($BASE:_type/MEI_Embodiment).",
+  "rdfs:label": "MEI Embodiment list"
+}

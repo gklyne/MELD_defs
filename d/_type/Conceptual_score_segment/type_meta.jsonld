@@ -1,0 +1,32 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_type/Conceptual_score_segment",
+  "@type": [
+    "annal:Type"
+  ],
+  "annal:field_aliases": [],
+  "annal:id": "Conceptual_score_segment",
+  "annal:supertype_uri": [
+    {
+      "@id": "frbr:Group_1_entity"
+    },
+    {
+      "@id": "frbr:Expression"
+    },
+    {
+      "@id": "so:SegmentLine"
+    }
+  ],
+  "annal:type": "annal:Type",
+  "annal:type_id": "_type",
+  "annal:type_list": "_list/Conceptual_score_segment",
+  "annal:type_view": "_view/Conceptual_score_segment",
+  "annal:uri": "meld:Conceptual_score_segment",
+  "rdfs:comment": "# Conceptual score segment\r\n\r\nConceptual score segment entities link performance fragments in a MELD session to elements in an MEI description of a work being performed. (@@TODO: need to expand on - or link to - a MELD session)\r\n\r\nA conceptual score is made up from (a segment line of?) conceptual score segment entities that are instances of mo:Score and also of frbr:Expression and mo:Segment.\r\n\r\nEach conceptual score segment has a number parts (frbr:part values) described as meld:muzicode values and also as frbr:Expression values.  Depending on the application of MELD, other kinds of segment part may be described.\r\n\r\nEach muzicode segment part is related to a meld:MEIEmbodiment which is an rdf:Bag of references to elements in the score published as MEI, which itself is a frbr:Manifestation of the score expression.\r\n",
+  "rdfs:label": "Conceptual score segment"
+}

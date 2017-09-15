@@ -1,0 +1,19 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_vocab/prov",
+  "@type": [
+    "annal:Vocabulary"
+  ],
+  "annal:id": "prov",
+  "annal:type": "annal:Vocabulary",
+  "annal:type_id": "_vocab",
+  "annal:uri": "http://www.w3.org/ns/prov#",
+  "rdfs:comment": "PROV namespace",
+  "rdfs:label": "PROV namespace",
+  "rdfs:seeAlso": []
+}
