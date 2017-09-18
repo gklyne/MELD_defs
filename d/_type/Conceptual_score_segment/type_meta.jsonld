@@ -13,6 +13,9 @@
   "annal:id": "Conceptual_score_segment",
   "annal:supertype_uri": [
     {
+      "@id": "mo:Score"
+    },
+    {
       "@id": "so:Segment"
     },
     {
