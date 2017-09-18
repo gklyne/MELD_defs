@@ -1,0 +1,34 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Conceptual_score_segment/Test_BaseCamp",
+  "@type": [
+    "meld:Conceptual_score_segment",
+    "so:Segment",
+    "frbr:Expression",
+    "frbr:Group_1_entity",
+    "annal:EntityData"
+  ],
+  "annal:id": "Test_BaseCamp",
+  "annal:type": "meld:Conceptual_score_segment",
+  "annal:type_id": "Conceptual_score_segment",
+  "annal:uri": "score:ClimbBaseCamp",
+  "frbr:part": [
+    {
+      "@id": "Muzicode_in_MEI/ClimbBaseCamp_Choice1"
+    },
+    {
+      "@id": "Muzicode_in_MEI/ClimbBaseCamp_Choice2"
+    },
+    {
+      "@id": "Muzicode_in_MEI/ClimbBaseCamp_Choice3"
+    }
+  ],
+  "mo:published_as": "http://127.0.0.1:5000/mei/BaseCamp.mei",
+  "rdfs:comment": "# Test Climb! Basecamp",
+  "rdfs:label": "Test Climb! Basecamp"
+}

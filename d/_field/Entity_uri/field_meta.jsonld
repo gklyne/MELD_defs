@@ -1,0 +1,32 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_field/Entity_uri",
+  "@type": [
+    "annal:Field"
+  ],
+  "annal:default_value": "",
+  "annal:field_entity_type": "",
+  "annal:field_fields": [],
+  "annal:field_placement": "small:0,12",
+  "annal:field_ref_field": "",
+  "annal:field_ref_restriction": "",
+  "annal:field_ref_type": "",
+  "annal:field_render_type": "_enum_render_type/Identifier",
+  "annal:field_value_mode": "_enum_value_mode/Value_direct",
+  "annal:field_value_type": "annal:Identifier",
+  "annal:id": "Entity_uri",
+  "annal:placeholder": "(Entity URI or CURIE)",
+  "annal:property_uri": "annal:uri",
+  "annal:repeat_label_add": "Add",
+  "annal:repeat_label_delete": "Remove",
+  "annal:tooltip": "Entity URI or CURIE. (If not specified, the local URL of the entity definition is used.)",
+  "annal:type": "annal:Field",
+  "annal:type_id": "_field",
+  "rdfs:comment": "# Entity URI\r\n\r\nType URI or CURIE.  (If not specified, the URL of the entity definition is used; a URI specified here allows consistency of URI information across Annalist instances.)",
+  "rdfs:label": "Entity URI"
+}

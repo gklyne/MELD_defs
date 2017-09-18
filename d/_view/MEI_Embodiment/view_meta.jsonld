@@ -42,6 +42,6 @@
       "annal:property_uri": ""
     }
   ],
-  "rdfs:comment": "# MEI Embodiment view\r\n\r\nView entity of type [MEI Embodiment]($BASE:_type/MEI_Embodiment).",
+  "rdfs:comment": "# MEI Embodiment view\r\n\r\nView entity of type [MEI Embodiment]($BASE:_type/MEI_Embodiment).\r\n\r\n## **@@NOTE**\r\n\r\nOriginal scores.json just quotes fragment id, and combines it with URI for MEI score  Annalist currently has no way to do this, hence full URI in membership descriptions.  Is this a problem?",
   "rdfs:label": "MEI Embodiment view"
 }

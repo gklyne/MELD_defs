@@ -1,0 +1,22 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Muzicode_in_MEI/ClimbBaseCamp_Choice2",
+  "@type": [
+    "meld:muzicode",
+    "frbr:Expression",
+    "frbr:Group_1_entity",
+    "annal:EntityData"
+  ],
+  "annal:id": "ClimbBaseCamp_Choice2",
+  "annal:type": "meld:muzicode",
+  "annal:type_id": "Muzicode_in_MEI",
+  "frbr:embodiment": "MEI_Embodiment/ClimbBaseCamp_Choice2",
+  "frbr:partOf": "Conceptual_score_segment/Test_BaseCamp",
+  "rdfs:comment": "# Climb Basecamp Choice 2\r\n\r\nAvatar left base camp along the second path",
+  "rdfs:label": "Climb Basecamp Choice 2"
+}

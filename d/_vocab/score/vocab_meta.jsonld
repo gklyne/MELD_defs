@@ -1,0 +1,19 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_vocab/score",
+  "@type": [
+    "annal:Vocabulary"
+  ],
+  "annal:id": "score",
+  "annal:type": "annal:Vocabulary",
+  "annal:type_id": "_vocab",
+  "annal:uri": "http://127.0.0.1:5000/score/",
+  "rdfs:comment": "Namespace for conceptual scores",
+  "rdfs:label": "Namespace for conceptual scores",
+  "rdfs:seeAlso": []
+}

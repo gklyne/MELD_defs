@@ -1,0 +1,27 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "MEI_Embodiment/ClimbBaseCamp_Choice3",
+  "@type": [
+    "meld:MEIEmbodiment",
+    "frbr:Manifestation",
+    "frbr:Group_1_entity",
+    "rdf:Bag",
+    "rdfs:Container",
+    "annal:EntityData"
+  ],
+  "annal:id": "ClimbBaseCamp_Choice3",
+  "annal:type": "meld:MEIEmbodiment",
+  "annal:type_id": "MEI_Embodiment",
+  "rdfs:comment": "# Climb Basecamp Choice 3 embodiment in MEI\r\n",
+  "rdfs:label": "Climb Basecamp Choice 3 embodiment",
+  "rdfs:member": [
+    {
+      "@id": "http://127.0.0.1:5000/mei/BaseCamp.mei#measure-000000077376722"
+    }
+  ]
+}

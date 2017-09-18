@@ -37,6 +37,11 @@
       "annal:property_uri": ""
     },
     {
+      "annal:field_id": "_field/Entity_uri",
+      "annal:field_placement": "",
+      "annal:property_uri": ""
+    },
+    {
       "annal:field_id": "_field/published_as",
       "annal:field_placement": "",
       "annal:property_uri": ""
@@ -47,6 +52,6 @@
       "annal:property_uri": ""
     }
   ],
-  "rdfs:comment": "# Conceptual score segment view\r\n\r\nView entity of type [Conceptual score segment]($BASE:_type/Conceptual_score_segment).\r\n",
+  "rdfs:comment": "# Conceptual score segment view\r\n\r\nView entity of type [Conceptual score segment]($BASE:_type/Conceptual_score_segment).\r\n\r\n## **@@NOTE**\r\n\r\nAnnalist currently generates entities using the local URI for the primnary identifier value.  The \"Entity URI\" field is used (by convention) in Annalist to also provide a site-independent URI for an entity (e.g. for entity types).  Currently, these identifiers are link linked in any way in the generated RDF, but applications could pick up the \"annal:uri\" value.\r\n\r\nIs \"owl:sameAs\" too strong to capture the relationship (I think it is)?  Maybe could use/generate a \"prov:specializationOf\" association when an anal:uri field is present?",
   "rdfs:label": "Conceptual score segment view"
 }
