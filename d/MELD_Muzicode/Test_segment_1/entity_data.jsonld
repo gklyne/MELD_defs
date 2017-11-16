@@ -8,8 +8,8 @@
   "@id": "MELD_Muzicode/Test_segment_1",
   "@type": [
     "meld:muzicode",
-    "frbr:Expression",
     "frbr:Group_1_entity",
+    "frbr:Expression",
     "annal:EntityData"
   ],
   "annal:id": "Test_segment_1",

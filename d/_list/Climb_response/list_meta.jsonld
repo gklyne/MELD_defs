@@ -11,7 +11,7 @@
   ],
   "annal:default_type": "_type/Climb_response",
   "annal:default_view": "_view/Climb_response",
-  "annal:display_type": "List",
+  "annal:display_type": "_enum_list_type/List",
   "annal:id": "Climb_response",
   "annal:list_entity_selector": "'climb:Response' in [@type]",
   "annal:list_fields": [

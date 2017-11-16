@@ -8,10 +8,8 @@
   "@id": "Conceptual_score_segment/Test_BaseCamp",
   "@type": [
     "meld:Conceptual_score_segment",
-    "mo:Score",
-    "so:Segment",
-    "frbr:Expression",
     "frbr:Group_1_entity",
+    "frbr:Expression",
     "annal:EntityData"
   ],
   "annal:id": "Test_BaseCamp",

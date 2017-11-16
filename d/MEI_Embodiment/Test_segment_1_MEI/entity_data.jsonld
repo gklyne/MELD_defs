@@ -11,7 +11,6 @@
     "frbr:Manifestation",
     "frbr:Group_1_entity",
     "rdf:Bag",
-    "rdfs:Container",
     "annal:EntityData"
   ],
   "annal:id": "Test_segment_1_MEI",

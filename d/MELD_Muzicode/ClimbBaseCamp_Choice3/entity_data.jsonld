@@ -8,8 +8,8 @@
   "@id": "MELD_Muzicode/ClimbBaseCamp_Choice3",
   "@type": [
     "meld:muzicode",
-    "frbr:Expression",
     "frbr:Group_1_entity",
+    "frbr:Expression",
     "annal:EntityData"
   ],
   "annal:id": "ClimbBaseCamp_Choice3",

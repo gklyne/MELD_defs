@@ -8,8 +8,8 @@
   "@id": "MELD_Muzicode/basecamp_mc1",
   "@type": [
     "meld:muzicode",
-    "frbr:Expression",
     "frbr:Group_1_entity",
+    "frbr:Expression",
     "annal:EntityData"
   ],
   "annal:id": "basecamp_mc1",

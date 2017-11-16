@@ -11,7 +11,6 @@
     "frbr:Manifestation",
     "frbr:Group_1_entity",
     "rdf:Bag",
-    "rdfs:Container",
     "annal:EntityData"
   ],
   "annal:id": "ClimbBaseCamp_Choice2",
