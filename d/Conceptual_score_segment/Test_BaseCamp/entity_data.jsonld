@@ -20,13 +20,13 @@
   "annal:uri": "score:ClimbBaseCamp",
   "frbr:part": [
     {
-      "@id": "Muzicode_in_MEI/ClimbBaseCamp_Choice1"
+      "@id": "MELD_Muzicode/ClimbBaseCamp_Choice1"
     },
     {
-      "@id": "Muzicode_in_MEI/ClimbBaseCamp_Choice2"
+      "@id": "MELD_Muzicode/ClimbBaseCamp_Choice2"
     },
     {
-      "@id": "Muzicode_in_MEI/ClimbBaseCamp_Choice3"
+      "@id": "MELD_Muzicode/ClimbBaseCamp_Choice3"
     }
   ],
   "mo:published_as": "http://127.0.0.1:5000/mei/BaseCamp.mei",

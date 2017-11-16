@@ -1,0 +1,29 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_type/MELD_Muzicode",
+  "@type": [
+    "annal:Type"
+  ],
+  "annal:field_aliases": [],
+  "annal:id": "MELD_Muzicode",
+  "annal:supertype_uri": [
+    {
+      "@id": "frbr:Expression"
+    },
+    {
+      "@id": "frbr:Group_1_entity"
+    }
+  ],
+  "annal:type": "annal:Type",
+  "annal:type_id": "_type",
+  "annal:type_list": "_list/MELD_Muzicode",
+  "annal:type_view": "_view/MELD_Muzicode",
+  "annal:uri": "meld:muzicode",
+  "rdfs:comment": "# MELD Muzicode\r\n\r\nRefers to elements in an `mo:Score` that are associated with a Muzicode trigger event.\r\n\r\nThe form of reference is not defined by this class: it acts as a conceptual score element that can be referenced by incoming event-trigger annotations.  It references a `frbr:Manifestation` entity via a `frbr:embodiment` property, which in turn references the MEI description of the Muzicode (or, in principle, could reference some other embodiment?).\r\n\r\nNote: in the Climb application, this class stands in place of the `so:Segment` and `so:SegmentLine` classes described in [Take it to the Bridge](https://ismir2017.smcnus.org/wp-content/uploads/2017/10/190_Paper.pdf).",
+  "rdfs:label": "MELD Muzicode"
+}

@@ -1,0 +1,32 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_field/Climb_v_mc",
+  "@type": [
+    "annal:Field"
+  ],
+  "annal:default_value": "",
+  "annal:field_entity_type": "",
+  "annal:field_fields": [],
+  "annal:field_placement": "small:0,12",
+  "annal:field_ref_field": "",
+  "annal:field_ref_restriction": "",
+  "annal:field_ref_type": "",
+  "annal:field_render_type": "_enum_render_type/Text",
+  "annal:field_value_mode": "_enum_value_mode/Value_direct",
+  "annal:field_value_type": "annal:Identifier",
+  "annal:id": "Climb_v_mc",
+  "annal:placeholder": "(Climb visual animation URL)",
+  "annal:property_uri": "climb:v_mc",
+  "annal:repeat_label_add": "Add",
+  "annal:repeat_label_delete": "Remove",
+  "annal:tooltip": "Climb URL of resource to display on visual animation channel.",
+  "annal:type": "annal:Field",
+  "annal:type_id": "_field",
+  "rdfs:comment": "# Climb visual muzicode URL\r\n\r\nURL of resource to display on visual muzicode channel.  Or \"1\" to use default muzicode URL.\r\n\r\nUsed with Muzicode responses only (not start of stage auto-responses)\r\n\r\nData uses `.webm` (open web media) files.",
+  "rdfs:label": "Climb visual muzicode URL"
+}

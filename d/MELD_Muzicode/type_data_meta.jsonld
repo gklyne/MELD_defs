@@ -5,11 +5,11 @@
     },
     "../coll_context.jsonld"
   ],
-  "@id": "Muzicode_in_MEI",
+  "@id": "MELD_Muzicode",
   "@type": [
     "annal:Type_Data"
   ],
-  "annal:id": "Muzicode_in_MEI",
+  "annal:id": "MELD_Muzicode",
   "annal:type": "annal:Type_Data",
   "annal:type_id": "_entitytypedata"
 }

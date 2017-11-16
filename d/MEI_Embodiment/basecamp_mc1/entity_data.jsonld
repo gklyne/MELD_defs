@@ -1,0 +1,27 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "MEI_Embodiment/basecamp_mc1",
+  "@type": [
+    "meld:MEIEmbodiment",
+    "frbr:Manifestation",
+    "frbr:Group_1_entity",
+    "rdf:Bag",
+    "rdfs:Container",
+    "annal:EntityData"
+  ],
+  "annal:id": "basecamp_mc1",
+  "annal:type": "meld:MEIEmbodiment",
+  "annal:type_id": "MEI_Embodiment",
+  "rdfs:comment": "Basecamp mc1 in MEI\r\n",
+  "rdfs:label": "Basecamp mc1 in MEI",
+  "rdfs:member": [
+    {
+      "@id": "meifile:BaseCamp.mei#basecamp_mc1"
+    }
+  ]
+}
