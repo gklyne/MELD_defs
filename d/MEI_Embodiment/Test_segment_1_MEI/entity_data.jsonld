@@ -21,10 +21,10 @@
   "rdfs:label": "Test segment 1 MEI",
   "rdfs:member": [
     {
-      "@id": "coll:Test_segment_1_MEI#1"
+      "@id": "_coll_:Test_segment_1_MEI#1"
     },
     {
-      "@id": "coll:Test_segment_1_MEI#1"
+      "@id": "_coll_:Test_segment_1_MEI#1"
     }
   ]
 }

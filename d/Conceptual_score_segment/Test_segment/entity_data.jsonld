@@ -22,7 +22,7 @@
       "@id": "Muzicode_in_MEI/Test_segment_1"
     }
   ],
-  "mo:published_as": "coll:Test_segment",
+  "mo:published_as": "_coll_:Test_segment",
   "rdfs:comment": "# Test segment",
   "rdfs:label": "Test segment"
 }
