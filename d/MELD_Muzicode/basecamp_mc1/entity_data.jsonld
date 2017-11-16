@@ -1,0 +1,22 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "MELD_Muzicode/basecamp_mc1",
+  "@type": [
+    "meld:muzicode",
+    "frbr:Expression",
+    "frbr:Group_1_entity",
+    "annal:EntityData"
+  ],
+  "annal:id": "basecamp_mc1",
+  "annal:type": "meld:muzicode",
+  "annal:type_id": "MELD_Muzicode",
+  "frbr:embodiment": "MEI_Embodiment/basecamp_mc1",
+  "frbr:partOf": "Conceptual_score_segment/basecamp",
+  "rdfs:comment": "Basecamp mc1\r\n\r\n* mc: \"Ending 1\"\r\n* name: \"BC_Ending1\"\r\n* cue: 1a\r\n* v.mc: challengeCode360.webm\r\n* app: \"The performer chose the first path\":5:true\r\n",
+  "rdfs:label": "Basecamp mc1"
+}

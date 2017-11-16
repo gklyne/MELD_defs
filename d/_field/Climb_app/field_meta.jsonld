@@ -1,0 +1,32 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_field/Climb_app",
+  "@type": [
+    "annal:Field"
+  ],
+  "annal:default_value": "",
+  "annal:field_entity_type": "",
+  "annal:field_fields": [],
+  "annal:field_placement": "small:0,12",
+  "annal:field_ref_field": "",
+  "annal:field_ref_restriction": "",
+  "annal:field_ref_type": "",
+  "annal:field_render_type": "_enum_render_type/Text",
+  "annal:field_value_mode": "_enum_value_mode/Value_direct",
+  "annal:field_value_type": "annal:Text",
+  "annal:id": "Climb_app",
+  "annal:placeholder": "(Climb app message response)",
+  "annal:property_uri": "climb:app",
+  "annal:repeat_label_add": "Add",
+  "annal:repeat_label_delete": "Remove",
+  "annal:tooltip": "Climb app message response",
+  "annal:type": "annal:Field",
+  "annal:type_id": "_field",
+  "rdfs:comment": "# Climb app message response\r\n\r\nText to send to mobile app in vEvent message (prefixed with performance id).\r\n\r\n@@The data has \":9:true\" at the end of most or all messages - what is this about?@@\r\n",
+  "rdfs:label": "Climb app"
+}

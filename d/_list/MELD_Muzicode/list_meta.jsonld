@@ -5,14 +5,14 @@
     },
     "../../coll_context.jsonld"
   ],
-  "@id": "_list/Muzicode_in_MEI",
+  "@id": "_list/MELD_Muzicode",
   "@type": [
     "annal:List"
   ],
-  "annal:default_type": "_type/Muzicode_in_MEI",
-  "annal:default_view": "_view/Muzicode_in_MEI",
+  "annal:default_type": "_type/MELD_Muzicode",
+  "annal:default_view": "_view/MELD_Muzicode",
   "annal:display_type": "_enum_list_type/List",
-  "annal:id": "Muzicode_in_MEI",
+  "annal:id": "MELD_Muzicode",
   "annal:list_entity_selector": "'meld:muzicode' in [@type]",
   "annal:list_fields": [
     {
@@ -28,6 +28,6 @@
   "annal:type": "annal:List",
   "annal:type_id": "_list",
   "annal:uri": "annal:display/Default_list",
-  "rdfs:comment": "# Muzicode in MEI list\n\nList entities of type [Muzicode in MEI]($BASE:_type/Muzicode_in_MEI).",
-  "rdfs:label": "Muzicode in MEI list"
+  "rdfs:comment": "# MELD Muzicode\r\n\r\nList entities of type [MELD Muzicode]($BASE:_type/MELD-Muzicode).",
+  "rdfs:label": "MELD Muzicode"
 }

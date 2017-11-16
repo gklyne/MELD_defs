@@ -1,0 +1,33 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_list/Climb_response",
+  "@type": [
+    "annal:List"
+  ],
+  "annal:default_type": "_type/Climb_response",
+  "annal:default_view": "_view/Climb_response",
+  "annal:display_type": "List",
+  "annal:id": "Climb_response",
+  "annal:list_entity_selector": "'climb:Response' in [@type]",
+  "annal:list_fields": [
+    {
+      "annal:field_id": "_field/Entity_id",
+      "annal:field_placement": "small:0,3"
+    },
+    {
+      "annal:field_id": "_field/Entity_label",
+      "annal:field_placement": "small:3,9"
+    }
+  ],
+  "annal:record_type": "climb:Response",
+  "annal:type": "annal:List",
+  "annal:type_id": "_list",
+  "annal:uri": "annal:display/Default_list",
+  "rdfs:comment": "# Climb response list\n\nList entities of type [Climb response]($BASE:_type/Climb_response).",
+  "rdfs:label": "Climb response list"
+}

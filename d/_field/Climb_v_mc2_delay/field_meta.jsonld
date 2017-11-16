@@ -1,0 +1,32 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_field/Climb_v_mc2_delay",
+  "@type": [
+    "annal:Field"
+  ],
+  "annal:default_value": "",
+  "annal:field_entity_type": "",
+  "annal:field_fields": [],
+  "annal:field_placement": "small:0,12;medium:0,6",
+  "annal:field_ref_field": "",
+  "annal:field_ref_restriction": "",
+  "annal:field_ref_type": "",
+  "annal:field_render_type": "_enum_render_type/Text",
+  "annal:field_value_mode": "_enum_value_mode/Value_direct",
+  "annal:field_value_type": "annal:Text",
+  "annal:id": "Climb_v_mc2_delay",
+  "annal:placeholder": "(Climb delay - seconds to wait before delayed muzicode channel visual response)",
+  "annal:property_uri": "climb:v_mc2_delay",
+  "annal:repeat_label_add": "Add",
+  "annal:repeat_label_delete": "Remove",
+  "annal:tooltip": "Climb delay - seconds to wait before delayed muzicode channel visual response",
+  "annal:type": "annal:Field",
+  "annal:type_id": "_field",
+  "rdfs:comment": "# Climb v_mc2 response action delay\r\n\r\nDelay in seconds before delayed muzicode channel visual response.",
+  "rdfs:label": "Climb delay for v_mc2"
+}

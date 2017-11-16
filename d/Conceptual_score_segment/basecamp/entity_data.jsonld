@@ -5,7 +5,7 @@
     },
     "../../coll_context.jsonld"
   ],
-  "@id": "Conceptual_score_segment/Test_segment",
+  "@id": "Conceptual_score_segment/basecamp",
   "@type": [
     "meld:Conceptual_score_segment",
     "mo:Score",
@@ -14,16 +14,16 @@
     "frbr:Group_1_entity",
     "annal:EntityData"
   ],
-  "annal:id": "Test_segment",
+  "annal:id": "basecamp",
   "annal:type": "meld:Conceptual_score_segment",
   "annal:type_id": "Conceptual_score_segment",
-  "annal:uri": "",
+  "annal:uri": "score:BaseCamp",
   "frbr:part": [
     {
-      "@id": "MELD_Muzicode/Test_segment_1"
+      "@id": "MELD_Muzicode/basecamp_mc1"
     }
   ],
-  "mo:published_as": "coll:Test_segment",
-  "rdfs:comment": "# Test segment",
-  "rdfs:label": "Test segment"
+  "mo:published_as": "meifile:BaseCamp.mei",
+  "rdfs:comment": "Basecamp\r\n\r\nauto:\r\n\r\n* cue: 1a\r\n* v.animate: mountainOutline.png\r\n* v.background: BG_basecamp_360.webm\r\n",
+  "rdfs:label": "Basecamp"
 }
