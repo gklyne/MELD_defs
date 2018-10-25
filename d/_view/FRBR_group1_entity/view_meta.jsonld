@@ -11,10 +11,10 @@
   ],
   "annal:id": "FRBR_group1_entity",
   "annal:open_view": true,
-  "annal:record_type": "frbr:Group_1_entity",
   "annal:type": "annal:View",
   "annal:type_id": "_view",
   "annal:uri": "annal:display/Default_view",
+  "annal:view_entity_type": "frbr:Group_1_entity",
   "annal:view_fields": [
     {
       "annal:field_id": "_field/Entity_id",

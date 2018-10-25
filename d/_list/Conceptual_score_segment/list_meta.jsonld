@@ -14,6 +14,7 @@
   "annal:display_type": "_enum_list_type/List",
   "annal:id": "Conceptual_score_segment",
   "annal:list_entity_selector": "'meld:Conceptual_score_segment' in [@type]",
+  "annal:list_entity_type": "meld:Conceptual_score_segment",
   "annal:list_fields": [
     {
       "annal:field_id": "_field/Entity_id",
@@ -24,7 +25,6 @@
       "annal:field_placement": "small:3,9"
     }
   ],
-  "annal:record_type": "meld:Conceptual_score_segment",
   "annal:type": "annal:List",
   "annal:type_id": "_list",
   "annal:uri": "annal:display/Default_list",

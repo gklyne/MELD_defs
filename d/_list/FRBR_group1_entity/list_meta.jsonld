@@ -14,6 +14,7 @@
   "annal:display_type": "_enum_list_type/List",
   "annal:id": "FRBR_group1_entity",
   "annal:list_entity_selector": "'frbr:Group_1_entity' in [@type]",
+  "annal:list_entity_type": "frbr:Group_1_entity",
   "annal:list_fields": [
     {
       "annal:field_id": "_field/Entity_id",
@@ -28,7 +29,6 @@
       "annal:field_placement": "small:6,6"
     }
   ],
-  "annal:record_type": "frbr:Group_1_entity",
   "annal:type": "annal:List",
   "annal:type_id": "_list",
   "annal:uri": "annal:display/Default_list",

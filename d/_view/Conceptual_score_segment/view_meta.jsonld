@@ -11,10 +11,10 @@
   ],
   "annal:id": "Conceptual_score_segment",
   "annal:open_view": true,
-  "annal:record_type": "meld:Conceptual_score_segment",
   "annal:type": "annal:View",
   "annal:type_id": "_view",
   "annal:uri": "annal:display/Default_view",
+  "annal:view_entity_type": "meld:Conceptual_score_segment",
   "annal:view_fields": [
     {
       "annal:field_id": "_field/Entity_id",
